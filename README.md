@@ -1,2 +1,1 @@
-# estudos-qa
-Repositório  para estudos de Qualidade de Software
+Repositorio criado para organizar meus estudos em QA
