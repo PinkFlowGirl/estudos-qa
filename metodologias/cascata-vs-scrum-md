@@ -1,0 +1,48 @@
+# 📌 Metodologias de Desenvolvimento
+
+## 🧱 Modelo Cascata (Waterfall)
+
+### 📍 Características
+- Processo sequencial
+- Etapas fixas
+- Só avança após concluir a fase anterior
+- Testes acontecem após o desenvolvimento
+
+### 📍 Fases
+1. Requirements (Requisitos)
+2. Design
+3. Develop
+4. Test
+5. Deploy
+6. Maintenance
+
+---
+
+## 🔄 Scrum (Metodologia Ágil)
+
+### 📍 Características
+- Iterativo e incremental
+- Trabalha com Sprints (1 a 4 semanas)
+- Entregas frequentes
+- Feedback constante
+
+### 📍 Estrutura
+- Product Backlog
+- Sprint Backlog
+- Planning
+- Daily Scrum
+- Review
+- Retrospective
+
+---
+
+## 🧪 Visão de QA
+
+### No Cascata
+- QA atua principalmente na fase de testes.
+- Correções podem ser mais custosas.
+
+### No Scrum
+- QA participa desde o refinamento.
+- Testes contínuos durante a Sprint.
+- Feedback rápido e melhoria constante.
