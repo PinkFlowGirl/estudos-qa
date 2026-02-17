@@ -57,3 +57,16 @@ Contribui na definição dos critérios de aceitação.
 Pode atuar com automação de testes.
 
 Valida se o produto atende aos requisitos definidos e às necessidades do cliente.
+
+
+📌 QA em Reuniões de Refinamento
+
+Garantir a compreensão completa das User Stories antes do início da Sprint.
+
+Fazer perguntas para esclarecer regras de negócio, fluxos e cenários alternativos.
+
+Reforçar questionamentos sempre que algo não estiver claro ou estiver ambíguo.
+
+Contribuir com uma estimativa em alto nível, considerando esforço de testes, riscos e complexidade.
+
+Avaliar se a história está clara, testável e com critérios de aceitação bem definidos.
