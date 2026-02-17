@@ -96,3 +96,20 @@ Ser transparente sobre dificuldades, impedimentos ou atrasos.
 Evitar omitir informações ou tentar mascarar problemas.
 
 Contribuir para que o time tenha uma visão real do progresso da Sprint.
+
+
+📌 Atuação do QA Durante a Sprint
+
+Não esperar que todas as funcionalidades estejam finalizadas para iniciar os testes.
+
+Iniciar a automação o quanto antes, sempre que possível.
+
+Executar os testes planejados, mas também realizar testes exploratórios.
+
+Ir além do simples reporte de defeitos, contribuindo com análises e sugestões de melhoria.
+
+Realizar testes em parceria com o desenvolvedor (pair testing).
+
+Acompanhar e analisar métricas de qualidade e progresso.
+
+Desenvolver o hábito de revisar código para ampliar a compreensão técnica e prevenir falhas.
