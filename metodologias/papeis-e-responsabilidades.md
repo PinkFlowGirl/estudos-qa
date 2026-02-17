@@ -23,3 +23,19 @@ Apoia a equipe e a organização na compreensão e aplicação da teoria e prát
 Atua como facilitador do time.
 
 Remove impedimentos que possam atrapalhar o progresso. 
+
+📌 Analista de Qualidade (QA) / Testador
+
+Atua como mentor do time em práticas de testes e qualidade de software.
+
+Participa do processo desde o planejamento até a entrega do produto, não apenas na fase final.
+
+Tem foco na prevenção de defeitos, e não somente na detecção.
+
+Trabalha em colaboração com Desenvolvedores, Product Owners e Scrum Masters.
+
+Contribui na definição dos critérios de aceitação.
+
+Pode atuar com automação de testes.
+
+Valida se o produto atende aos requisitos definidos e às necessidades do cliente.
