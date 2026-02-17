@@ -71,18 +71,15 @@ Contribuir com uma estimativa em alto nível, considerando esforço de testes, r
 
 Avaliar se a história está clara, testável e com critérios de aceitação bem definidos.
 
-📌 Preparação do QA para o Planning
 
-Realizar a revisão prévia das User Stories.
+📌 Participação do QA no Planning
 
-Identificar claramente o que precisa ser testado (escopo de testes).
+Levar estimativas em baixo nível, considerando esforço, riscos e complexidade dos testes.
 
-Mapear dependências técnicas e de negócio.
+Compartilhar a estratégia de testes planejada para a Sprint.
 
-Definir e organizar os dados necessários para execução dos testes.
+Defender decisões com argumentos claros e baseados em fatos.
 
-Identificar necessidades de testes não funcionais (performance, segurança, usabilidade, etc.).
+Comprometer-se apenas com o que é viável e possível de ser entregue com qualidade.
 
-Avaliar o grau de confiança nas novas funcionalidades, considerando riscos e impactos.
-
-Elaborar estimativas em baixo nível, levando em conta esforço de testes, complexidade e possíveis cenários adicionais.
+Relembrar situações históricas do time que possam impactar prazos ou riscos (ex: dificuldades anteriores, retrabalho, débitos técnicos).
