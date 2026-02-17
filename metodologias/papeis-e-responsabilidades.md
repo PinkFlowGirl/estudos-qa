@@ -1,3 +1,9 @@
+ Anotações – Atuação do QA no Scrum
+
+Material de estudo baseado nas aulas da mentoria em QA.
+Organizado por mim para fins de revisão e aprendizado.
+
+
 📌 Product Owner
 
 É responsável por garantir que a equipe compreenda a visão e os objetivos do produto.
