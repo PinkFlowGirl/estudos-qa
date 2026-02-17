@@ -83,3 +83,16 @@ Defender decisões com argumentos claros e baseados em fatos.
 Comprometer-se apenas com o que é viável e possível de ser entregue com qualidade.
 
 Relembrar situações históricas do time que possam impactar prazos ou riscos (ex: dificuldades anteriores, retrabalho, débitos técnicos).
+
+
+📌 QA em Reuniões Diárias (Daily Scrum)
+
+Preparar-se previamente antes da reunião, revisando tarefas e status.
+
+Comunicar de forma clara e objetiva o andamento das atividades.
+
+Ser transparente sobre dificuldades, impedimentos ou atrasos.
+
+Evitar omitir informações ou tentar mascarar problemas.
+
+Contribuir para que o time tenha uma visão real do progresso da Sprint.
