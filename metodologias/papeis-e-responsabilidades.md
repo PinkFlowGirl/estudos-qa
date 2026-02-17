@@ -8,6 +8,7 @@ Colabora na definição dos critérios de aceitação.
 
 Define e prioriza as funcionalidades no Product Backlog.
 
+
 📌 Desenvolvedor
 
 Responsável por criar e evoluir o software a cada Sprint.
@@ -16,6 +17,7 @@ Atua em diferentes atividades, como codificação, testes e entrega das funciona
 
 Trabalha em conjunto com os testadores para garantir que a qualidade esteja presente desde o início do desenvolvimento.
 
+
 📌 Scrum Master
 
 Apoia a equipe e a organização na compreensão e aplicação da teoria e prática do Scrum.
@@ -23,6 +25,7 @@ Apoia a equipe e a organização na compreensão e aplicação da teoria e prát
 Atua como facilitador do time.
 
 Remove impedimentos que possam atrapalhar o progresso. 
+
 
 📌 Analista de Qualidade (QA) / Testador
 
@@ -33,6 +36,21 @@ Participa do processo desde o planejamento até a entrega do produto, não apena
 Tem foco na prevenção de defeitos, e não somente na detecção.
 
 Trabalha em colaboração com Desenvolvedores, Product Owners e Scrum Masters.
+
+
+📌 Papel do QA em Reuniões de Refinamento
+
+Participar ativamente das discussões, evitando se isolar do time.
+
+Demonstrar postura proativa e segurança ao se posicionar.
+
+Fazer perguntas sempre que houver dúvidas ou pontos pouco claros.
+
+Identificar e alertar o time sobre possíveis riscos técnicos ou de negócio.
+
+Atuar como parceiro dos Desenvolvedores, Scrum Master e Product Owner.
+
+Contribuir para garantir que os critérios de aceitação estejam claros e testáveis.
 
 Contribui na definição dos critérios de aceitação.
 
