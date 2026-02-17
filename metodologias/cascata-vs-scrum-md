@@ -46,3 +46,14 @@
 - QA participa desde o refinamento.
 - Testes contínuos durante a Sprint.
 - Feedback rápido e melhoria constante.
+
+### No Kanban
+- Fluxo contínuo
+- Foco em visualizar tarefas num quadro
+- Limitar trabalho em progresso (WIP), sem ciclos fixos
+
+### 📍 Estrutura
+- Planned
+- In Progress 
+- In Review
+- Done
