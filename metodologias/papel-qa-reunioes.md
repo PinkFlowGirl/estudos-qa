@@ -19,7 +19,7 @@ Pode atuar com automação de testes.
 Valida se o produto atende aos requisitos definidos e às necessidades do cliente.
 
 
-📌 QA em Reuniões de Refinamento
+📌 QA se preparando para o Planning
 
 Garantir a compreensão completa das User Stories antes do início da Sprint.
 
