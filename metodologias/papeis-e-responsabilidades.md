@@ -113,3 +113,19 @@ Realizar testes em parceria com o desenvolvedor (pair testing).
 Acompanhar e analisar métricas de qualidade e progresso.
 
 Desenvolver o hábito de revisar código para ampliar a compreensão técnica e prevenir falhas.
+
+📌 Atuação do QA na Reunião de Review
+
+Alinhar previamente com o Product Owner os cenários que serão apresentados.
+
+Reexecutar os testes que validam os critérios de aceitação antes da demonstração.
+
+Preparar e validar os dados de teste que serão utilizados na apresentação.
+
+Garantir que o ambiente esteja estável, evitando deploys durante a Review.
+
+Evitar o uso de mocks na apresentação, sempre que possível, para demonstrar o comportamento real da funcionalidade.
+
+Valorizar o trabalho dos desenvolvedores durante a apresentação das entregas.
+
+Destacar testes adicionais realizados como parte da estratégia de qualidade.
